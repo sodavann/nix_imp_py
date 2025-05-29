@@ -1,3 +1,4 @@
+[![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
 ## WIP: Flake templates for impure python environments using Nix
 
 Templates to manage virtual environments using `uv`, `pip`, `poetry` and `pixi` on NixOs. 
